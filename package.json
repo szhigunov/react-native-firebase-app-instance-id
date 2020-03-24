@@ -1,0 +1,25 @@
+{
+  "name": "react-native-firebase-app-instance-id",
+  "title": "React Native Firebase App Instance Id",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szhigunov/react-native-firebase-app-instance-id.git",
+    "baseUrl": "https://github.com/szhigunov/react-native-firebase-app-instance-id"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Sergey Zhigunov <i.sergey.zhigunov@gmail.com>",
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react-native": ">=0.60 <0.62"
+  }
+}
