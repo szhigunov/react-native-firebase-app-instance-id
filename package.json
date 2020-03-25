@@ -2,7 +2,7 @@
   "name": "react-native-firebase-app-instance-id",
   "title": "React Native Firebase App Instance Id",
   "version": "1.0.0",
-  "description": "",
+  "description": "TODO",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
